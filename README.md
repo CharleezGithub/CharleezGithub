@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a student working on my own projects in both Rust and Python.<br>I specialize in backend and API's with Rust but also frontend in PyQt and Pyside in Python.<br>
+I'm a student working on personal projects, primarily in Rust and Python.<br>
+I specialize in performant and safe APIs, as well as backend development using Rust. I also work on frontend development with Qt and PySide in Python.
 
 
 # 💻 Tech Stack:
